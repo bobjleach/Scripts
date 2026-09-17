@@ -1,2 +1,2 @@
 # Scripts
-Scripts to automate tsks
+Scripts to automate tasks
